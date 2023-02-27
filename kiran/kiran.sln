@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{73b5aec9-97a1-4b14-9a5f-73e7ca927ef7}") = "kiran", "kiran.csproj", "{e50b9048-2b75-4298-b963-553015f2d5b1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{e50b9048-2b75-4298-b963-553015f2d5b1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e50b9048-2b75-4298-b963-553015f2d5b1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e50b9048-2b75-4298-b963-553015f2d5b1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{e50b9048-2b75-4298-b963-553015f2d5b1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

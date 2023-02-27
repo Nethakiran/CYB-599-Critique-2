@@ -1,0 +1,13 @@
+C:\Users\HI\Downloads\kiran\obj\Debug\kiran.csproj.AssemblyReference.cache
+C:\Users\HI\Downloads\kiran\obj\Debug\kiran.csproj.CoreCompileInputs.cache
+C:\Users\HI\Downloads\kiran\bin\AntMe.Player.kiran.dll
+C:\Users\HI\Downloads\kiran\bin\AntMe.Player.kiran.pdb
+C:\Users\HI\Downloads\kiran\bin\AntMe.SharedComponents.dll
+C:\Users\HI\Downloads\kiran\bin\AntMe.Simulation.dll
+C:\Users\HI\Downloads\kiran\bin\AntMe.SharedComponents.xml
+C:\Users\HI\Downloads\kiran\bin\AntMe.Simulation.xml
+C:\Users\HI\Downloads\kiran\bin\de\AntMe.SharedComponents.resources.dll
+C:\Users\HI\Downloads\kiran\bin\de\AntMe.Simulation.resources.dll
+C:\Users\HI\Downloads\kiran\obj\Debug\kiran.csproj.CopyComplete
+C:\Users\HI\Downloads\kiran\obj\Debug\AntMe.Player.kiran.dll
+C:\Users\HI\Downloads\kiran\obj\Debug\AntMe.Player.kiran.pdb
